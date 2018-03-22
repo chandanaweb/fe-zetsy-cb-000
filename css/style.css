@@ -22,7 +22,7 @@ body {
 .copyRight{
 	float: right;
  font-size: 10px;
- margin : 5px 0;
+ margin : 0 5px;
  }
 
  h1{
@@ -34,5 +34,5 @@ body {
 	border-bottom: 1px solid #ccc;
  }
 footer{
-	
+
 }
