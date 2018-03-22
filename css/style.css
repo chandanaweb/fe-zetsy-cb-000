@@ -21,9 +21,8 @@ body {
 /* Write all remaining styles here */
 .copyRight{
 	float: right;
- font-size: 10px;
- margin : 0 5px;
-  padding-bottom: 10px;
+ font-size: 0.8em;
+ margin: 0 0 20px 0;
  }
 
  h1{
